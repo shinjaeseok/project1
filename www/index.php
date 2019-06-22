@@ -1,10 +1,8 @@
 <html>
 <head>
-    <title>PHP Test</title>
+    <title>index</title>
 </head>
 <body>
-<?php
-    echo 'Hello World';
-    ?>
+<?php echo <p>Hello World</p>
 </body>
 </html>
